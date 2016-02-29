@@ -92,3 +92,5 @@ Forks:
 Para manter um repositório forkado atualizado
 
 - git remote add upstream linkdorepositoriooriginal (adicione somente uma vez)
+
+- Pull request: Consiste em uma solicitação de integração das nossas modificações com o repositório remoto. Basta informar na caixa de comentários um detalhamento do que foi criado/modificado. O responsável pelo repositório agora poderá simplesmente aceitar sua sugestão, dialogar com você tirando dúvidas ou solicitando alterações ou até mesmo negar sua proposta. Neste cenário toda a comunidade do GitHub poderá comentar o que você fez.
